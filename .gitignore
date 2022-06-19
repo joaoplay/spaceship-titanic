@@ -102,3 +102,6 @@ outputs/
 
 wandb/
 lightning_logs/
+notebooks/
+
+submission.csv
